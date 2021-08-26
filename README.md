@@ -1,2 +1,2 @@
 # Doom-Eternal-disable-console
-Doom Eternal Disable console hotkey 
+Doom Eternal Disable console hotkey
