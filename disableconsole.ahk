@@ -3,4 +3,6 @@ SC029::1
 ; Binds Del as the console button
 Del::SC029
 ; Suspends all hotkeys by pressing Ins
-Ins::Suspend, Toggle
+Ins::
+Suspend,Toggle
+^Ins::ExitApp
